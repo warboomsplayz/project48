@@ -1,0 +1,10 @@
+jedi image done
+enemy entering done
+enemy movement doing
+shooting doing
+score done
+dash done 
+dash kill done 
+damage to player by score done
+astroids done
+more ships done
